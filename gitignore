@@ -1,0 +1,12 @@
+# We don't want Mods on github
+
+# Curseforge stuff
+
+
+# MC files we don't need here
+
+# No CCI configs on github
+src\config\contentcreatorintegration
+
+# don't push this file
+
