@@ -1,0 +1,4 @@
+#Chance of hefty crop spawning. Larger number = rarer. A value of 1 will guarantee a hefty crop spawns.
+#Range: 1 ~ 100
+weight = 25
+

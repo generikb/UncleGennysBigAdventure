@@ -1,0 +1,3 @@
+#If ant transportable items should have a tooltip indicating that.
+showTransportableItems = true
+

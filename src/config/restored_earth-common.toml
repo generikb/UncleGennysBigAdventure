@@ -1,0 +1,32 @@
+
+#Spawn settings:
+[spawning]
+	#Will the Wooly Cow spawn in the wild
+	woolyCowSpawn = true
+	#Will the Jumbo Rabbit spawn in the wild
+	jumboRabbitSpawn = true
+	#Will the Fancy Chicken spawn in the wild
+	fancyChickenSpawn = true
+	#Will the Rainbow Sheep spawn in the wild
+	rainbowSheepSpawn = true
+	#Will the Jolly Llama spawn in the wild
+	jollyLlamaSpawn = true
+	#Will the Viler Witch spawn in the wild
+	vilerWitchSpawn = true
+	#Will the Tropical Slime spawn in the wild
+	tropicalSlimeSpawn = false
+	#Will the Moobloom spawn in the wild
+	moobloomSpawn = true
+	#Will the Bouldering Zombie spawn in the wild
+	boulderingZombieSpawn = true
+	#Will the Skeleton Wolf spawn in the wild
+	skeletonWolfSpawn = true
+	#Will the Bone Spider spawn in the wild
+	boneSpiderSpawn = true
+	#Will the Moolip spawn in the wild
+	moolipSpawn = true
+	#Will the Cluckshroom spawn in the wild
+	cluckshroomSpawn = true
+	#Will the Lobber Zombie spawn in the wild
+	lobberZombieSpawn = true
+

@@ -1,0 +1,100 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 15, 2022, 9:18:29 AM
+
+#beyond_earth:molten_calorite
+- beyond_earth:molten_calorite?
+- beyond_earth:flowing_molten_calorite?
+
+#forge:experience
+- sophisticatedcore:xp_still
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- nethers_exoticism:jaboticaba_juice
+- nethers_exoticism:flowing_jaboticaba_juice
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+- create_confectionery:black_chocolate
+- create_confectionery:flowing_black_chocolate
+- create_confectionery:white_chocolate
+- create_confectionery:flowing_white_chocolate
+- create_confectionery:hot_chocolate
+- create_confectionery:flowing_hot_chocolate
+- create_confectionery:caramel
+- create_confectionery:flowing_caramel
+- create_confectionery:ruby_chocolate
+- create_confectionery:flowing_ruby_chocolate
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:molten_ostrum
+- #beyond_earth:molten_ostrum
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:molten_desh
+- #beyond_earth:molten_desh
+
+#forge:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#tconstruct:tooltips/metal
+- #forge:molten_desh
+- #forge:molten_ostrum
+- #forge:molten_calorite
+
+#beyond_earth:vehicle_fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#create:bottomless/deny
+
+#forge:molten_calorite
+- #beyond_earth:molten_calorite
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#beyond_earth:molten_ostrum
+- beyond_earth:molten_ostrum?
+- beyond_earth:flowing_molten_ostrum?
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+
+#beyond_earth:oil
+- beyond_earth:oil
+- beyond_earth:flowing_oil
+
+#beyond_earth:molten_desh
+- beyond_earth:molten_desh?
+- beyond_earth:flowing_molten_desh?
+
+#forge:fuel
+- beyond_earth:fuel
+- beyond_earth:flowing_fuel

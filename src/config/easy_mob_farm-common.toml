@@ -1,0 +1,104 @@
+
+#Bo's Easy Mob Farm
+[General]
+	#Enable/Disable owner messages about full storage to avoid lagging systems.
+	informOwnerAboutFullStorage = true
+	#Enable/Disable full storage log messages for the server logs.
+	logFullStorage = true
+	#Number of roll's to get the loot preview for a captured mob. Higher numbers require more server load, but giving a more completed overview.
+	#Range: 1 ~ 5
+	lootPreviewRolls = 2
+
+["Animal Plains Farms"]
+	#Defines after how many seconds a loot drop is performed.
+	#Range: 10 ~ 3600
+	animalPlainsFarmProcessTime = 300
+	#Supported Mobs for the animal plains farm.
+	animalPlainsFarmMobs = ["minecraft:cow", "minecraft:chicken", "minecraft:donkey", "minecraft:pig", "minecraft:horse", "minecraft:sheep"]
+
+["Creative Mob Farm"]
+	#Defines after how many seconds a loot drop is performed.
+	#Range: 10 ~ 3600
+	creativeMobFarmProcessTime = 60
+
+["Desert Farm"]
+	#Defines after how many seconds a drop is performed.
+	#Range: 10 ~ 3600
+	desertFarmProcessTime = 300
+	#Supported Mobs for the dessert farm.
+	desertFarmMobs = ["minecraft:skeleton", "minecraft:enderman", "minecraft:witch", "minecraft:spider", "minecraft:zombie", "minecraft:creeper", "minecraft:husk", "minecraft:rabbit"]
+
+["Monster Plains Cave Farm"]
+	#Defines after how many seconds a loot drop is performed.
+	#Range: 10 ~ 3600
+	monsterPlainsCaveFarmProcessTime = 300
+	#Supported Mobs for the monster plains cave farm.
+	monsterPlainsCaveFarmMobs = ["minecraft:cave_spider", "minecraft:skeleton", "minecraft:zombie", "minecraft:creeper"]
+
+["Ocean Farm"]
+	#Defines after how many seconds a loot drop is performed.
+	#Range: 10 ~ 3600
+	oceanFarmProcessTime = 300
+	#Supported Mobs for the ocean farm.
+	oceanFarmMobs = ["minecraft:cod", "minecraft:salmon", "aquaculture:pacific_halibut", "aquaculture:pink_salmon", "aquaculture:atlantic_herring", "aquaculture:atlantic_halibut", "aquaculture:blackfish", "minecraft:squid", "aquaculture:pollock", "minecraft:glow_squid", "aquaculture:rainbow_trout", "minecraft:drowned", "aquaculture:atlantic_cod"]
+
+["Swamp Farm"]
+	#Defines after how many seconds a loot drop is performed.
+	#Range: 10 ~ 3600
+	swampFarmProcessTime = 300
+	#Supported Mobs for the swamp farm.
+	swampFarmMobs = ["minecraft:cow", "minecraft:witch", "minecraft:chicken", "minecraft:zombie", "minecraft:pig", "minecraft:zombie_villager", "minecraft:sheep", "minecraft:slime"]
+
+["Collar small (Mob Catching Item)"]
+	#Defines the luck of capturing the mob e.g. luck of 3 means a change of 1 to 3 to capture a mob. Higher numbers requires more luck. 0 = disable luck.
+	#Range: 0 ~ 100
+	collarSmallMobCatchingLuck = 3
+	#Catchable mobs with the collar small.
+	collarSmallMobs = ["minecraft:chicken", "minecraft:cow", "minecraft:donkey", "minecraft:horse", "minecraft:pig", "minecraft:sheep"]
+
+["Fishing bowl (Mob Catching Item)"]
+	#Defines the luck of capturing the mob e.g. luck of 3 means a change of 1 to 3 to capture a mob. Higher numbers requires more luck. 0 = disable luck.
+	#Range: 0 ~ 100
+	fishingBowlMobCatchingLuck = 3
+	#Catchable mobs with the fishing bowl.
+	fishingBowlMobs = ["minecraft:cod", "minecraft:salmon", "aquaculture:atlantic_cod", "aquaculture:atlantic_halibut", "aquaculture:atlantic_herring", "aquaculture:blackfish", "aquaculture:pacific_halibut", "aquaculture:pink_salmon", "aquaculture:pollock", "aquaculture:rainbow_trout"]
+
+["Fishing net small (Mob Catching Item)"]
+	#Defines the luck of capturing the mob e.g. luck of 3 means a change of 1 to 3 to capture a mob. Higher numbers requires more luck. 0 = disable luck.
+	#Range: 0 ~ 100
+	fishingNetSmallMobCatchingLuck = 3
+	#Catchable mobs with the fishing net small.
+	fishingNetSmallMobs = ["minecraft:cod", "minecraft:salmon", "minecraft:squid", "minecraft:glow_squid", "minecraft:drowned"]
+
+["Urn small (Mob Catching Item)"]
+	#Defines the luck of capturing the mob e.g. luck of 3 means a change of 1 to 3 to capture a mob. Higher numbers requires more luck. 0 = disable luck.
+	#Range: 0 ~ 100
+	urnSmallMobCatchingLuck = 3
+	#Catchable mobs with the urn small.
+	urnSmallMobs = ["minecraft:cave_spider", "minecraft:creeper", "minecraft:skeleton", "minecraft:zombie"]
+
+["Witch Bottle (Mob Catching Item)"]
+	#Defines the luck of capturing the mob e.g. luck of 3 means a change of 1 to 3 to capture a mob. Higher numbers requires more luck. 0 = disable luck.
+	#Range: 0 ~ 100
+	witchBottleMobCatchingLuck = 10
+	#Catchable mobs with the witch bottle.
+	witchBottleMobs = ["minecraft:witch", "minecraft:slime"]
+
+["Blaze Settings"]
+	#Enable/Disable blaze rod drops.
+	blazeDropBlazeRod = true
+
+["Cow Settings"]
+	#Enable/Disable cow raw beef drops.
+	cowDropRawBeef = true
+
+["Chicken Settings"]
+	#Enable/Disable chicken egg drops.
+	chickenDropEggs = true
+	#Enable/Disable raw chicken drops.
+	chickenDropRawChicken = true
+
+["Sheep Settings"]
+	#Enable/Disable sheep raw mutton drops.
+	sheepDropRawMutton = true
+
