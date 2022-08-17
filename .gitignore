@@ -6,7 +6,7 @@
 # MC files we don't need here
 
 # No CCI configs on github
-src\config\contentcreatorintegration
+src/config/contentcreatorintegration/
 
 # don't push this file
 
