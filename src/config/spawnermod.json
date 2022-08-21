@@ -5,10 +5,12 @@
   "disable_silk_touch": 0,
   "disable_spawner_config": 0,
   "disable_speed": 0,
+  "display_item_id_from_right_click_in_log": 0,
   "limited_spawns_amount": 32,
   "limited_spawns_enabled": 1,
   "monster_egg_drop_chance": 4,
   "monster_egg_only_drop_when_killed_by_player": 0,
+  "item_id_blacklist": [],
   "disable_specific_egg_drops": {
     "minecraft:axolotl": 0,
     "minecraft:bat": 0,

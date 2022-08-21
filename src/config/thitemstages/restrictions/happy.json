@@ -1,0 +1,33 @@
+{
+  "Restriction Data": {
+    "stage": "happy",
+    "itemList": [
+      "minecraft:diamond"
+    ],
+    "blockList": [
+    ],
+    "modList": [
+      "create"
+    ],
+    "exceptionList": [
+    ],
+    "containerList": [
+      "net.minecraft.inventory.container.WorkbenchContainer", "thitemstages.inventoryMenu.CraftingGrid"
+    ],
+    "dimensionList": [
+      "minecraft:the_nether"
+    ]
+  },
+  "Settings": {
+    "advancedTooltips": "ALWAYS",
+    "itemTitle": "Unavailable Item",
+    "pickupDelay": 15,
+    "hideInJEI": true,
+    "canPickup": true,
+    "containerListWhitelist": false,
+    "checkPlayerInventory": false,
+    "checkPlayerEquipment": true,
+    "usableItems": false,
+    "usableBlocks": false
+  }
+}

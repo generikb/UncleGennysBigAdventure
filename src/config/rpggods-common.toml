@@ -22,6 +22,11 @@
 	#True to send feedback through chat instead of status bar
 	#Only if perk_feedback is True
 	perk_feedback_chat = false
+	#Set to true to apply the same favor to every player
+	use_global_favor = false
+	#Set to false to make cooldown faster when there are more players
+	#Ignored when use_global_favor is false
+	use_global_cooldown = true
 
 [affinity]
 	#True if mobs can be given AI to avoid the player
@@ -36,4 +41,14 @@
 [sitting]
 	#List of mobs that appear to sit (used client-side)
 	sitting_mobs = ["minecraft:zombie", "minecraft:husk", "minecraft:drowned", "minecraft:skeleton", "minecraft:stray", "minecraft:wither_skeleton", "minecraft:vindicator", "minecraft:pillager", "minecraft:evoker", "minecraft:illusioner", "minecraft:piglin", "minecraft:zombified_piglin", "minecraft:enderman"]
+
+[brazier]
+	#True to enable automatic offerings using the brazier
+	brazier_enabled = true
+	#The number of ticks required to burn an offering
+	#Range: 0 ~ 12000
+	brazier_cooldown = 8
+	#The number of blocks to search for an altar
+	#Range: 1 ~ 8
+	brazier_range = 2
 
