@@ -33,9 +33,6 @@
 	[wood_type.nethers_exoticism]
 		ramboutan = true
 
-	[wood_type.thewildupdate]
-		mangrove = true
-
 	[wood_type.pizzacraft]
 		olive = true
 
@@ -82,9 +79,6 @@
 	[leaves_type.nethers_exoticism]
 		ramboutan = true
 		jaboticaba = true
-
-	[leaves_type.thewildupdate]
-		mangrove = true
 
 	[leaves_type.ecologics]
 		coconut = true
