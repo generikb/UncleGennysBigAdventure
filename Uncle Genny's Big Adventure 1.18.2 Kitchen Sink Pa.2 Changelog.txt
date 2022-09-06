@@ -1,0 +1,404 @@
+Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
+----------------------------------------------------
+Modlist and Changelog
+----------------------------------------------------
+
+
+September 5, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.1
+Minecraft Version : 1.18.2
+Forge Version : 40.1.76
+------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+JEI 9.7.1.255 (Stable)
+GeckoLib 3.0.37 (Launcher tries to download Quilt version)
+
+-- Updated Mods --
+------------------
+Ars nouveau - 2.7.6 to 2.7.7
+Artifacts 4.0.7 to 4.1.0
+Better Advancements - 0.1.2.125 to 0.2.1.132
+Better Village - 1.0.2 to 2.0.0
+Blueprint - 5.4.3 to 
+Bookshelf - 13.2.48 to 13.2.50
+Buddycards Expansion - 1.1.2 to 1.1.3
+Crayfish's Gun Mod (CGM) - 1.2.6 to 1.2.7
+Collective - 4.37 to 4.51
+Configured - 1.5.3 to 1.5.4
+Controlling - 9.0+21 to 22
+Cultural Delights - 0.12.1 to 0.13
+Curious Lanterns - 1.1.0 to 1.1.3
+Decorative Blocks - 2.1.1 to 2.1.2
+Easy Piglins - 1.0.0 to 1.0.4
+Extreme Sound Muffler - 3.28 to 3.29
+Fantasy Furniture - 3.9.1 to 3.10.0
+Forbidden and Arcanus - 2.0.0 to 2.1.0-beta3
+ForgeEndertech - 9.0.4.0-1016 to 9.0.5.0-1061
+GeckoLib - 3.0.34 to 3.0.37
+IDAS - 1.3.3 to 1.4.3
+Invincible Pets (Unkillable Pets) - 1.0 to 1.3
+JourneyMap Integration (JMI) - 0.9-49 0.13-31
+JourneyMap - 5.8.5 to 5.9.0beta2
+Kobolds - 2.0.5 to 2.0.8
+KubeJS - 1802.5.4-535 to 1802.5.5-546
+LibraryFerret - 2.5.1 to 3.0.0
+Lootr - 0.2.19.56 to 0.2.20.57
+Orcz (Vanilla Expanded) - 0.76 to InteJason v5
+Piglin Expansion - 1.2 to 1.2.1
+Placebo - 6.6.0 to 6.6.4
+Rhino - 1802.1.14-225 to 1802.2.0-232
+rsgauges (Guages and Switches) - 1.2.16 to 1.2.16(dated Sept 4)
+Simple Hats - 0.1.3 to 0.1.5
+Sophisticated Backpacks - 3.18.17.680 to 3.18.24.704
+Sophisticated Core - 0.5.1.98 to 0.5.9.115
+Sophisticated Storage - 0.5.1.107 to 0.5.11.137
+Spawner Mod (Enhanced Mob Spawners) - 1.8.16 to 1.8.17
+Supplementaries - 1.4.11 to 1.4.12
+TerraBlender - 1.1.0.102 to 1.2.0.126
+The Graveyard - 1.9.1 to 1.9.2
+The One Probe - 5.1.1 to 5.1.2
+Twigs - 1.1.4-patch3 to patch4
+Undead Expansion - 2.0.2_b to 2.0.4_b
+Unusual End - 1.1.6 to v 1.1.7
+Yungs Better Desert Temples - 1.3 to 1.3.1
+
+
+
+-- Added Mods --
+----------------
+
+
+-- Removed Mods --
+------------------
+Camera
+Chest Cavity 
+RPG Gods
+
+-- Config Changes --
+--------------------
+/config/defaultoptions
+	keybindings
+	options
+/config/jei/blacklist.cfg
+	effect:gsu:crumble
+	effect:gsu:delayed_explosive
+	effect:gsu:drumble
+	effect:gsu:explosive
+	effect:gsu:fumble
+	effect:gsu:jumble
+	effect:gsu:stumble
+	effect:gsu:thimble
+	effect:gsu:tumble
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Customization -
+------------------
+
+
+
+
+September 5, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.0
+Minecraft Version : 1.18.2
+Forge Version : 40.1.76
+------------------------------------------------------------------------------
+
+
+-- Added Mods --
+----------------
+Abnormals Delight (by TeamAbnormals)
+Advancement Plaques (by Grend_G)
+Akashic Tome (by Vazkii)
+Alcocraft: Beer & Stuff (by hadrus91)
+Alex's Delight (by NCP_Bails)
+Alex's Mobs (by sbom_xela)
+Allurement (by TeamAbnormals)
+Amplified Nether (by Starmute)
+Ancient Debris in Overworld (by Not_Limboll)
+Antsportation (by matyrobbrt)
+Apple Crates (by AbsolemJackdaw)
+AppleSkin (by squeek502)
+Aquamirae (by ObscuriaOfficial)
+Architect's Palette (by Jsburg)
+Architectury API (Fabric/Forge) (by shedaniel)
+Ars Creo (by baileyholl2)
+Ars Nouveau (by baileyholl2)
+Artifacts (by ochotonida)
+AttributeFix (by DarkhaxDev)
+AutoRegLib (by Vazkii)
+Balm (Forge Edition) (by BlayTheNinth)
+Better Advancements (by way2muchnoise)
+Better Fishing Rods (by TrueRealCursed_Warrior)
+Better Fps - Render Distance[Forge] (by someaddon)
+Better Villages - Forge (by jtl_elisa)
+BetterF3 (by cominixo)
+Beyond Earth (Forge) (by mrscauthd)
+Biome Makeover (Forge) (by Lemonszz)
+Blueprint (by TeamAbnormals)
+Book Fishing (by TrueRealCursed_Warrior)
+Bookshelf (by DarkhaxDev)
+Borderless Window (by SgtSalocin)
+Brutal Bosses - Dungeon Bosses (by someaddon)
+Buddycards (by wildcard_gamer)
+Buddycards Expansions (by wildcard_gamer)
+Caged Mobs (by Corgam)
+Camera Mod (by henkelmax)
+Camp Chair (by dmitrylovin)
+Chest Cavity - Forge Port (by booneldanforever)
+Chest Cow (by Xyfero)
+Chipped (by terrariumearth)
+Citadel (by sbom_xela)
+CleanView (by LainMI)
+Cloth Config API (Fabric/Forge) (by shedaniel)
+Cloud Storage (by sbom_xela)
+Clumps (by Jaredlll08)
+CoFH Core (by TeamCoFH)
+Colds: Piggy Bank (FORGE) (by Coldspell_Games)
+Collective (Forge) (by Serilum)
+Comforts (Forge) (by TheIllusiveC4)
+ConnectedTexturesMod (by tterrag1098)
+Connectible Chains [FORGE] (by lilypuree)
+Content Creator Integration (by ohaiiChun)
+Controlling (by Jaredlll08)
+Convenient Curios Container (by LeoBeliik)
+Cosmetic Armor Reworked (by LainMI)
+Crash Utilities (by Darkere)
+Create (by simibubi)
+Create Confectionery (by Furti_Two)
+Create Slice & Dice (by possible_triangle)
+Create Stuff & Additions (by Furti_Two)
+Creatures and Beasts (by joosh_7889)
+Creeper Overhaul (by joosh_7889)
+Critter Fights (by itsmeowdev)
+Critters and Companions (by joosh_7889)
+Cultural Delights (by NCP_Bails)
+Curios API (Forge) (by TheIllusiveC4)
+Curious Armor Stands (by ochotonida)
+Curious Lanterns (by Psilock1)
+Curious Lights (by TheIllusiveC4)
+Custom Cards (by ArrowsendGaming)
+Custom Villager Trades (by SpaceCat_97)
+Cute Hermit Crabs (by Sv3r)
+Decorative Blocks (by stohun)
+Default Options (by BlayTheNinth)
+Dice (by Mr_Unknown404)
+Display Case (by ChappiePie)
+Dramatic Doors (by FizzWare)
+Duckling (by Frogipher)
+Dustrial Decor (by BlueDuckYT)
+Dynamic Asset Generator (by lukebemish)
+Dynamic Lights (by atomicstrykergrumpy)
+Easy Magic (by Fuzs_)
+Easy Piglins (by henkelmax)
+Easy Villagers (by henkelmax)
+Ecologics (by SameDifferent)
+EditSign (Forge&Fabric) (by RakSrinaNa)
+Enchantment Descriptions (by DarkhaxDev)
+Enchantment Transfer [Forge] (by treekicker4)
+Enhanced Mob Spawners (by BR4NDER5)
+Enigmatic Graves (by Quarris)
+Ensorcellation (by TeamCoFH)
+Every Compat (by MehVahdJukaar)
+ExpandAbility (by florensie)
+Extreme sound muffler (Forge) (by LeoBeliik)
+FancyMenu [Forge] (by Keksuccino)
+Fantasy's Furniture (by ApexMdr)
+Farmer's Delight (by vectorwing)
+Fast Leaf Decay (by olafskiii)
+FastFurnace (by Shadows_of_Fire)
+FastWorkbench (by Shadows_of_Fire)
+Feature NBT Deadlock Be Gone (by telepathicgrunt)
+FerriteCore (Forge) (by malte0811)
+Fishing Real (by PricelessKoala)
+FlickerFix (by MutantGumdrop)
+Flywheel (by jozufozu)
+Forbidden and Arcanus (by cesar_zorak)
+Forever A Child (by Mrbysco)
+ForgeEndertech (by EnderLanky)
+Framework (by MrCrayfish)
+FTB Library (Forge) (by FTB)
+FTB Ultimine (Forge) (by FTB)
+Galosphere (by orcinus73)
+Game Menu Mod Option [Forge] (by morimori0317)
+Gauges and Switches (by wilechaote)
+GeckoLib (by ThanosGecko)
+Generic Streamer Utilities (by Noobanidus)
+Goblin Traders (by MrCrayfish)
+Goblins & Dungeons (by superlord_9362)
+Health Overlay (Forge) (by Terrails)
+Hedgehogs (by orcinus73)
+Help Wanted (Forge and Fabric) (by captaintenneal81)
+Hunter illager (by bagu_chan500)
+Iceberg (by Grend_G)
+Illager Plushies (by kleiders3010)
+Immersive Weathering [FORGE] (by OrdanaryMods)
+Integrated Dungeons and Structures (by CraisinLord)
+Inventory Sorter (by cpw)
+Iron Fishing Rods (by TrueRealCursed_Warrior)
+ItemZoom (by mezz)
+JourneyMap (by techbrew)
+JourneyMap Integration (by frankv_)
+Jump Over Fences (by Kreezxil)
+Just Enough Effect Descriptions (JEED) (by MehVahdJukaar)
+Just Enough Items (JEI) (by mezz)
+Just Enough Professions (JEP) (by Mrbysco)
+Just Enough Resources (JER) (by way2muchnoise)
+Kobolds! (by Jusey1z)
+Konkrete [Forge] (by Keksuccino)
+Kotlin for Forge (by thedarkcolour)
+KubeJS (by LatvianModder)
+KubeJS Create (by LatvianModder)
+Legendary Tooltips (by Grend_G)
+Library Ferret - Forge (by jtl_elisa)
+Lootr (Forge) (by Noobanidus)
+Magnum Torch (by Fuzs_)
+Mannequins (by moonflowerteam)
+Milk All The Mobs (Forge) (by Serilum)
+MiniMePets (by tr9zw)
+Moonlight Lib (by MehVahdJukaar)
+Mouse Tweaks (by YaLTeR)
+MrCrayfish's Gun Mod (by MrCrayfish)
+Mushlings! (by Wabbajakke28)
+Naturalist (by Starfish_Studios)
+Nature's Compass (by Chaosyr)
+Neko's Enchanted Books (by Nekomaster1000)
+Nether's Delight (by lumpazl)
+Nether's Exoticism (by Furti_Two)
+NoCube's Sea Dwellers (by nocubeyt)
+Nomadic Tents (by skyjay1)
+Obscuria's Essentials (by ObscuriaOfficial)
+Obscuria's Tooltips (by ObscuriaOfficial)
+Omnis (by sammysemicolon)
+Open Loader (by DarkhaxDev)
+Overweight Farming (by agentmhkskg)
+Patchouli (by Vazkii)
+Pick Up Notifier (by Fuzs_)
+Piglin Expansion (by Ddx11__)
+PizzaCraft (by Tiviacz1337)
+Placebo (by Shadows_of_Fire)
+Plonk (by BlueAgent)
+Pollen (by moonflowerteam)
+Polymorph (Forge) (by TheIllusiveC4)
+Pretty Pipes (by Ellpeck)
+Prism (by Grend_G)
+Puzzles Lib (by Fuzs_)
+Quark (by Vazkii)
+RaidMeter (by Buuz135)
+Rare Ice (Forge/Fabric) (by shedaniel)
+ReBlured (by Cheaterpaul)
+Redstone Pen (by wilechaote)
+Rhino (by LatvianModder)
+RPG Gods (by skyjay1)
+Rubidium (by Asek3)
+Sapience (by the_infamous_1)
+Scuba Gear (by ModdingLegacy)
+Shrink. (by Gigabit101)
+Shutup Experimental Settings! (by Corgi_Taco)
+Simple Hats (by fonnymunkey)
+Simple Shops (by wolforce)
+Skinned Lanterns (Forge) (by nuxthefox)
+Snuffles (by schnappdragon)
+Some Assembly Required (by ochotonida)
+Sooty Chimneys (by mortuus_art)
+Sophisticated Backpacks (by P3pp3rF1y)
+Sophisticated Core (by P3pp3rF1y)
+Sophisticated Storage (by P3pp3rF1y)
+Sound Physics Remastered (by henkelmax)
+Spawner Head (by OrderedChaosDev)
+Sprout (by Frogipher)
+Spyglass Improvements: Zoom, Quick Access... [Fabric/Forge] (by Im_JC52)
+StepUp (by NotTooManyItems)
+Straw Golem Rebaled - Forge (by CommodoreThrawn)
+Structory (by botanydev)
+Structures' Compass (by Samarium_150)
+Supplementaries (by MehVahdJukaar)
+SwapThings (by ChiKitsune)
+SwingThroughGrass (by exidex)
+Technicalities: Lib (TKLib) (by amadornes)
+TerraBlender (Forge) (by TheAdubbz)
+Terralith (by Starmute)
+The Graveyard (FORGE) (by finallion_13)
+The Graveyard Biomes (FORGE) (by finallion_13)
+The Magic Mirror (by tboshoven)
+The One Probe (by McJty)
+Tiny Skeletons (by Fuzs_)
+TipTheScales (by Jaredlll08)
+Toast Control (by Shadows_of_Fire)
+Tom's Simple Storage Mod (by tom54541)
+Towns and Towers - Structure Add-on (by Biban_Auriu)
+TrashSlot (by BlayTheNinth)
+Truly Treasures (by In3ffa)
+Twigs (by ninnih_)
+Undead Expansion (by Fredzik2)
+Unkillable Pets (by LinearScripter)
+Untitled Duck Mod (Forge) (by Okabintaro)
+Unusual End (by Sweetygamer)
+Valhelsia Core (by ValhelsiaTeam)
+Valhelsia Structures (by ValhelsiaTeam)
+Vanilla Expanded - Orcz (by duke2die4)
+Voodoo Dolls (by Ellpeck)
+Wandering Bag (by Furti_Two)
+Waystones (by BlayTheNinth)
+Winter Overhaul (by joosh_7889)
+YUNG's API (Forge) (by YUNGNICKYOUNG)
+YUNG's Better Desert Temples (Forge) (by YUNGNICKYOUNG)
+YUNG's Better Dungeons (Forge) (by YUNGNICKYOUNG)
+YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
+YUNG's Better Strongholds (Forge) (by YUNGNICKYOUNG)
+YUNG's Better Witch Huts (Forge) (by YUNGNICKYOUNG)
+YUNG's Bridges (Forge) (by YUNGNICKYOUNG)
+YUNG's Extras (Forge) (by YUNGNICKYOUNG)
+
+
+
+
+
+Template:
+
+Month <day>, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.0.1
+Minecraft Version : 1.18.2
+Forge Version : 40.1.76
+------------------------------------------------------------------------------
+
+
+-- Updated Mods --
+------------------
+
+
+-- Added Mods --
+----------------
+
+
+-- Removed Mods --
+------------------
+
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Customization -
+------------------

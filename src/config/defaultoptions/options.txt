@@ -1,5 +1,5 @@
 version:2975
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -13,7 +13,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -24,20 +24,20 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5
-renderDistance:12
-simulationDistance:12
+renderDistance:10
+simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:120
+maxFps:260
 difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","dynamic_asset_generator:client","quark:emote_resources","resources/simplehats_hatdl.zip","file/Fantasy_Ores[1.16.x+to+1.19.x][v5].zip","file/Fantasy_Ores_Modded[v1.8].zip","file/1.18+STONEBORN+-+Appleskin+Compat.zip","create:legacy_copper","file/Create+Style+Modded+Compats+v14.zip","file/STONEBORN+-+1.18+-+V3.1.zip","file/STONEBORN+-+1.18+-+EXTENDED+V1.3.zip","file/Stay_True_1.18.zip","file/Stay+True+Compats+v3+[1.18].zip","file/MiniBlocks-1.0.zip","file/Create+Guns+1.18+v4.zip","file/Create+Ender+Storage+v1.0.zip","file/Create+Camera.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Create+Camera.zip"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -47,7 +47,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
