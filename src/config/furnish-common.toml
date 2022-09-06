@@ -1,3 +1,0 @@
-#Restrict items that can be inserted by other players in a Mailbox to items tagged #furnish:mail?
-restrictMailboxItems = true
-

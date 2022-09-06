@@ -3,8 +3,6 @@
 
 	#Properties relating to gameplay
 	[common.gameplay]
-		#If enable, allows guns to shoot out glass and remove blocks on explosions
-		enableGunGriefing = true
 		#The extra amount to expand an entity's bounding box when checking for projectile collision. Setting this value higher will make it easier to hit entities
 		#Range: 0.0 ~ 1.0
 		growBoundingBoxAmount = 0.3
@@ -25,6 +23,15 @@
 		knockbackStrength = 0.15
 		#If true, improves the accuracy of weapons by considering the ping of the player. This has no affect on singleplayer. This will add a little overhead if enabled.
 		improvedHitboxes = false
+
+		#Properties related to gun griefing
+		[common.gameplay.griefing]
+			#If enabled, allows block removal on explosions
+			enableBlockRemovalOnExplosions = true
+			#If enabled, allows guns to shoot out glass
+			enableGlassBreaking = true
+			#If true, allows guns enchanted with Fire Starter to light and spread fires on blocks
+			setFireToBlocks = true
 
 	#Properties relating to network
 	[common.network]
