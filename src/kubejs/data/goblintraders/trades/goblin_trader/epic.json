@@ -1,0 +1,107 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "create:brass_ingot",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:copper_ingot",
+        "count": 1
+      },
+      "secondary_payment_item": {
+        "item": "create:zinc_ingot",
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 16,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "dice:yellow_d6",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 16
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "sophisticatedbackpacks:advanced_compacting_upgrade",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "sophisticatedbackpacks:advanced_deposit_upgrade",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "sophisticatedbackpacks:advanced_magnet_upgrade",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "sophisticatedbackpacks:auto_blasting_upgrade",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "sophisticatedbackpacks:auto_smelting_upgrade",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "minecraft:redstone",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    }
+  ]
+}

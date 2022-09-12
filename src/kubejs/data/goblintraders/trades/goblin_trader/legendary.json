@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "trades": [
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "buddycards:buddycard_pack_mystery",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "forbidden_arcanus:xpetrified_orb",
+        "count": 8
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "buddycards:buddycard_booster_box_mystery",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "forbidden_arcanus:xpetrified_orb",
+        "count": 32
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "valhelsia_structures:dungeon_door",
+        "count": 1
+      },
+      "payment_item": {
+        "item": "undead_expansion:spawner_shard",
+        "count": 8
+      },
+      "secondary_payment_item": {
+        "item": "dramaticdoors:tall_spruce_door",
+        "count": 1
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 10
+    },
+    {
+      "type": "goblintraders:basic",
+      "offer_item": {
+        "item": "minecraft:diamond_pickaxe",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "payment_item": {
+        "item": "minecraft:dragon_head",
+        "count": 1
+      },
+      "secondary_payment_item": {
+        "item": "minecraft:diamond_pickaxe",
+        "count": 1,
+        "nbt": "{Damage:0}"
+      },
+      "price_multiplier": 0.0,
+      "max_trades": 1,
+      "experience": 1000,
+      "enchantments": [
+        {
+          "id": "minecraft:fortune",
+          "level": 5
+        },
+        {
+          "id": "minecraft:unbreaking",
+          "level": 5
+        }
+      ]
+    }    
+  ]
+}
