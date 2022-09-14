@@ -5,7 +5,7 @@ Modlist and Changelog
 
 
 
-September 13-, 2022
+September 13, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.3
 Minecraft Version : 1.18.2
@@ -60,12 +60,17 @@ config/alexsmobs.toml
 	[general]
 		giveBookOnStartup = false
 	[general.spawning]
-		grizzlyBearSpawnWeight = 0
+		grizzlyBearSpawnWeight = 0		
+config/gamemenumodoption-client.toml
+	[General]
+		"Show notification mod update" = false
+config/stepup.cfg
+	# display_update_message=0
+config/theoneprobe-common.toml
+	spawnNote = false
 defaultconfigs/cagedmobs-server.toml
 	[server]
 		entitiesList = ["alexsmobs:grizzly_bear"]
-config/theoneprobe-common.toml
-	spawnNote = false
 
 
 -- Script Changes --
