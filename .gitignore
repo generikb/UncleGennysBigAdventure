@@ -9,4 +9,4 @@
 src/config/contentcreatorintegration/
 
 # don't push this file
-
+.gitignore

@@ -3,6 +3,97 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+
+
+September 13-, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.3
+Minecraft Version : 1.18.2
+Forge Version : 40.1.80
+------------------------------------------------------------------------------
+
+
+-- Mod Freezes --
+-----------------
+Create Stuff & Additions 1.1.8 (v2.0.0 in beta. Wait to test)
+JEI 9.7.1.255 (Stable)
+GeckoLib 3.0.37 (Launcher tries to download Quilt version)
+
+
+-- Updated Mods --
+------------------
+Forge - 40.1.76 to 40.1.80
+
+Alex's Delight - 1.3.2 to 1.3.3
+Apple Crates - 1.2.2 to 1.3.1
+Architectury - 4.9.83 to 4.9.84
+Ars Nouveau - 2.7.7 to 2.7.8
+Artifacts - 4.1.0 to 4.2.0
+Cloth config - 6.3.81 to 6.4.90
+Collective - 4.51 to 4.52
+Critters and Companions - 1.0.1 to 1.0.2
+Curious Lanterns - 1.1.3 to 1.1.5
+Enchantment Descriptions - 10.0.8 to 10.0.9
+Fancy Menu - 2.12.1-1 to 2.12.2
+Pollen - 1.4.9 to 1.5.0
+Redstone Pen - 1.0.10 to 1.0.11
+Straw Golem Rebaled - 2.0.0b1 to 2.0.0b2
+
+
+
+-- Added Mods --
+----------------
+Dynamic Lights Reforged (by TeamDeusVult)
+Magnesium/Rubidium Extras (by TeamDeusVult)
+
+
+-- Removed Mods --
+------------------
+Dynamic Lights 
+
+
+-- Config Changes --
+--------------------
+config/alexsmobs/grizzly_bear_spawns.json
+	 "biomes": []
+config/alexsmobs.toml
+	[general]
+		giveBookOnStartup = false
+	[general.spawning]
+		grizzlyBearSpawnWeight = 0
+defaultconfigs/cagedmobs-server.toml
+	[server]
+		entitiesList = ["alexsmobs:grizzly_bear"]
+config/theoneprobe-common.toml
+	spawnNote = false
+
+
+-- Script Changes --
+--------------------
+/client_scripts/jeihide.js
+	hide quark crates
+/data/alexsmobs/loot-tables/entities/grizzly_bear.json
+	remove loot pools
+/data/alexsmobs/recipes/mobs/grizzly-bear.json
+	remove recipe outputs for caged mobs
+/server_scripts/bearfurrecipes.js
+	replace alex's bear hair with naturalist bear fur in crafting
+	add recipe naturalist bear fur --> 2x alex's bear hair (required for potions)
+	remove alex's bear hair from animal dictionary ingredient tag
+Renamed 'buddycardtokenrepices.js' to 'buddycardtokenrecipes.js'
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Customization -
+------------------
+
+
+
+
+
 September 12, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.2
@@ -11,23 +102,31 @@ Forge Version : 40.1.76
 ------------------------------------------------------------------------------
 
 
+-- Mod Freezes --
+-----------------
+JEI 9.7.1.255 (Stable)
+GeckoLib 3.0.37 (Launcher tries to download Quilt version)
+
+
 -- Updated Mods --
 ------------------
-Toms Storage (1.3.4 to 1.3.5)
-Supplementaries (1.4.12 to 1.5.1)
 Create Slice and Dice (1.0.2 to 1.1.0)
+Supplementaries (1.4.12 to 1.5.1)
+Toms Storage (1.3.4 to 1.3.5)
+
 
 -- Added Mods --
 ----------------
 Inventory Essentials (by BlayTheNinth)
+
 
 -- Removed Mods --
 ------------------
 Antsportation
 Cloud Storage
 Custom Cards
-Iron Fishing Rods
 Enhanced Mob Spawners
+Iron Fishing Rods
 
 
 -- Config Changes --
@@ -35,22 +134,19 @@ Enhanced Mob Spawners
 Added Wandering Trader Custom Trades
 Changed Dice cooldown dice-common.toml
 
+
 -- Script Changes --
 --------------------
 Added Goblin Trades (kubejs datapack)
 Added Buddy Card Rarity Tags
 Added Buddycard Token Recipes
 Added Buddycard Tokens
-
 Removed RPG Gods datapack
 
 
 -- Asset Changes --
 -------------------
 Added Buddy Token Items
-
--- Customization -
-------------------
 
 
 
