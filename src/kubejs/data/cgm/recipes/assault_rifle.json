@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        "cCGG",
+        "#pR "
+    ],
+    "key": {
+        "#": {
+            "item": "create:andesite_alloy"
+        },
+        "C": {
+            "item": "create:precision_mechanism"
+        },
+        "G": {
+            "item": "create:fluid_pipe"
+        },
+        "c": {
+            "item": "create:brass_ingot"
+        },
+        "R": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "p": {
+            "item": "minecraft:polished_blackstone_button"
+        }
+    },
+    "result": {
+        "item": "cgm:assault_rifle",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

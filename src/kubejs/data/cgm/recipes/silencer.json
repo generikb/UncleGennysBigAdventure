@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D",
+    "#D"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:wool"
+    },
+    "D": {
+            "item": "create:copper_sheet"
+        }
+  },
+  "result": {
+    "item": "cgm:silencer"
+  }
+}

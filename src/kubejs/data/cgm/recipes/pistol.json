@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        "cCX",
+        "#p "
+    ],
+    "key": {
+        "#": {
+            "item": "create:andesite_alloy"
+        },
+        "C": {
+            "item": "create:precision_mechanism"
+        },
+        "X": {
+            "item": "create:fluid_pipe"
+        },
+        "c": {
+            "item": "create:brass_ingot"
+        },
+        "p": {
+            "item": "minecraft:polished_blackstone_button"
+        }
+    },
+    "result": {
+        "item": "cgm:pistol",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

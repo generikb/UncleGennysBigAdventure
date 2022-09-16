@@ -1,0 +1,860 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:snowman_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:present_red_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:present_green_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_blue_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_purple_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_lime_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_magenta_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_yellow_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_green_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_light_blue_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_cyan_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_pink_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_orange_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_brown_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_black_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_white_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_gray_lantern_block"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "skinnedlanterns:ornament_light_gray_lantern_block"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:snow_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:ice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "architects_palette:polished_packed_ice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "architects_palette:chiseled_packed_ice",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ecologics:ice_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ecologics:snow_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 8
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create:chocolate_glazed_berries",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:black_chocolate_glazed_berries",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:white_chocolate_glazed_berries",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:caramel_glazed_berries",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:ruby_chocolate_glazed_berries",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:chocolate_glazed_marshmallow",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:black_chocolate_glazed_marshmallow",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:white_chocolate_glazed_marshmallow",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:ruby_chocolate_glazed_marshmallow",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "create_confectionery:caramelized_marshmellow_on_a_stick",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 1,
+                    "max": 4
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "sprout:butterscotch",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:candy_cane",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:gingerbread_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:chocolate_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:black_chocolate_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:ruby_chocolate_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:caramel_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:white_chocolate_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:candy_cane_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:gingerbreak_bricks",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.75
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:gingerbread_man",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create:honeyed_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "sprout:candy_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:apple_pie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:sweet_berry_cheesecake",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:chocolate_pie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "buddycardsexp:buddybean_pie",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:soothing_hot_chocolate",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:apple_cider",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alcocraft:spruce_mug_ice_beer"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:green_winter_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:green_scarf"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:cyan_winter_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:cyan_scarf"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:red_winter_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:red_scarf"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:yellow_winter_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:yellow_scarf"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forbidden_arcanus:edelwood_powder_snow_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "naturalist:teddy_bear"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "simplehats:snowmanbaby"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:alchemist_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:enchanter_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:evoker_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:hunter_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:nameless_sorcerer_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:pillager_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:summoner_plushie_spawn_egg"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "illager_plushies:vindicator_plushie_spawn_egg"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "supplementaries:bubble_blower",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "supplementaries:slingshot",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:top_hat",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "winteroverhaul:skates",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create_confectionery:the_bright_side"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "simplehats:hatbag_festive"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "simplehats:hatscraps_festive"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "shrink:mob_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{entity:\"snuffles:snuffle\"}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.1
+        }
+      ]
+    }
+  ]
+}

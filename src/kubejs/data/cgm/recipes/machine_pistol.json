@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "    ",
+        "#CVG",
+        "    "
+    ],
+    "key": {
+        "#": {
+            "item": "create:precision_mechanism"
+        },
+        "C": {
+            "item": "cgm:pistol"
+        },
+        "V": {
+            "item": "create:andesite_alloy"
+        },
+        "G": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "cgm:machine_pistol",
+        "count": 1
+    },
+  "acceptMirrored": true
+}

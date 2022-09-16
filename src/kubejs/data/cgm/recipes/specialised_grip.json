@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "C",
+        "C"
+    ],
+    "key": {
+        "#": {
+            "item": "create:copper_sheet"
+        },
+        "C": {
+            "item": "create:andesite_alloy"
+        }
+    },
+    "result": {
+        "item": "cgm:specialised_grip",
+        "count": 1
+    }
+}

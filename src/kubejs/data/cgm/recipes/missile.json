@@ -1,0 +1,28 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        "P#P",
+        "PGP",
+        "PGP",
+        " U "
+    ],
+    "key": {
+        "#": {
+            "item": "create:crushed_copper_ore"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "U": {
+            "item": "minecraft:string"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "cgm:missile",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

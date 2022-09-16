@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        "SCHG"
+    ],
+    "key": {
+        "C": {
+            "item": "cgm:rifle"
+        },
+        "S": {
+            "item": "create:precision_mechanism"
+        },
+        "G": {
+            "item": "minecraft:netherite_scrap"
+        },
+        "H": {
+            "item": "create:fluid_pipe"
+        }
+    },
+    "result": {
+        "item": "cgm:heavy_rifle",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

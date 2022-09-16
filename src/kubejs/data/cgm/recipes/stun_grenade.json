@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+ "pattern": [
+        " GU",
+        "G#G",
+        " P "
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glowstone_dust"
+        },
+        "P": {
+            "item": "minecraft:glass_bottle"
+        },
+        "U": {
+            "item": "minecraft:string"
+        },
+        "#": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "cgm:stun_grenade",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

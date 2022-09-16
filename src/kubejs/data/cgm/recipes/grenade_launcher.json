@@ -1,0 +1,35 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        "cC#J",
+        "KpKl"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:dragon_breath"
+        },
+        "c": {
+            "item": "create:brass_ingot"
+        },
+        "C": {
+            "item": "create:precision_mechanism"
+        },
+        "J": {
+            "item": "create:fluid_pipe"
+        },
+        "K": {
+            "item": "create:andesite_alloy"
+        },
+        "p": {
+            "item": "minecraft:polished_blackstone_button"
+        },
+        "l": {
+            "item": "cgm:specialised_grip"
+        }
+    },
+    "result": {
+        "item": "cgm:grenade_launcher",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

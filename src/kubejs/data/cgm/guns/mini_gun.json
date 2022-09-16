@@ -1,0 +1,30 @@
+{
+  "general": {
+    "auto": true,
+    "rate": 1,
+    "gripType": "cgm:mini_gun",
+    "maxAmmo": 100,
+    "reloadAmount": 10,
+    "recoilAngle": 1.0,
+    "alwaysSpread": true,
+    "spread": 8.0
+  },
+  "projectile": {
+    "item": "cgm:basic_bullet",
+    "damage": 2,
+    "size": 1,
+    "speed": 2.5,
+    "life": 100
+  },
+  "sounds": {
+    "fire": "cgm:item.mini_gun.fire",
+    "reload": "cgm:item.pistol.reload",
+    "enchantedFire": "cgm:item.mini_gun.enchanted_fire"
+  },
+  "display": {
+    "flash": {
+      "yOffset": 2.7,
+      "zOffset": -11.51
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        " P ",
+        "###",
+        "PGP",
+        "PGP",
+        " U "
+    ],
+    "key": {
+        "#": {
+            "item": "create:brass_nugget"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "U": {
+            "item": "minecraft:string"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "cgm:advanced_bullet",
+        "count": 8
+    } ,
+  "acceptMirrored": true
+}

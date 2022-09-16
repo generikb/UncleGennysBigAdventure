@@ -1,0 +1,36 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        " Bp  ",
+        "cYC##",
+        "cca##"
+    ],
+    "key": {
+        "#": {
+            "item": "create:fluid_pipe"
+        },
+        "C": {
+            "item": "minecraft:nether_star"
+        },
+        "Y": {
+            "item": "create:precision_mechanism"
+        },
+        "c": {
+            "item": "create:brass_ingot"
+        },
+        "a": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "B": {
+            "item": "create:andesite_alloy"
+        },
+        "p": {
+            "item": "minecraft:polished_blackstone_button"
+        }
+    },
+    "result": {
+        "item": "cgm:mini_gun",
+        "count": 1
+    } ,
+  "acceptMirrored": true
+}

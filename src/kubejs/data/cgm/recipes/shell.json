@@ -1,0 +1,31 @@
+{
+  "type": "create:mechanical_crafting",
+ "pattern": [
+        " E ",
+        "P#P",
+        "PGP",
+        " U "
+    ],
+    "key": {
+        "#": {
+            "item": "create:crushed_copper_ore"
+        },
+        "P": {
+            "item": "minecraft:paper"
+        },
+        "U": {
+            "item": "minecraft:string"
+        },
+        "E": {
+            "item": "minecraft:gold_nugget"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "cgm:shell",
+        "count": 8
+    } ,
+  "acceptMirrored": true
+}

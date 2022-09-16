@@ -3,6 +3,23 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+September 16, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.3
+Minecraft Version : 1.18.2
+Forge Version : 40.1.76
+------------------------------------------------------------------------------
+
+-- Removed Mods --
+------------------
+Better Villages
+
+-- Script Changes --
+--------------------
+Added loot tables for "village profession houses"
+Added new Crayfish Gun recipes (datapack via KubeJS)
+
+
 
 
 September 13, 2022

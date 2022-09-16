@@ -1,0 +1,367 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 3,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:leather"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:rabbit_hide"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "alexsmobs:kangaroo_hide"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "nethersdelight:hoglin_hide"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:silver_nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "galosphere:silver_ingot"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:kangaroo_burger"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsdelight:kangaroo_stew"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsdelight:kangaroo_pasta"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:candle"
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "quark:bonded_leather"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "quark:bonded_leather",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "quark:bonded_rabbit_hide"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "quark:bonded_rabbit_hide",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "nomadictents:tepee_section"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:rabbit_foot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "alexsmobs:shed_snake_skin"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "alexsmobs:raccoon_tail"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.75
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "alexsmobs:falconry_glove"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "alexsmobs:falconry_hood"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "cnb:sporeling_backpack"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:sterling_helmet",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:sterling_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:sterling_leggings",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:sterling_boots",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "supplementaries:bellows"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:leather_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "cftlc:moss_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "galosphere:sterling_horse_armor",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.75
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "biomemakeover:cowboy_hat"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:emu_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "sophisticatedbackpacks:backpack",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{borderColor:8439583,clothColor:8439583}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "sophisticatedbackpacks:backpack",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{borderColor:1481884,clothColor:1481884}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "sophisticatedbackpacks:backpack",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{borderColor:11546150,clothColor:11546150}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "sophisticatedbackpacks:backpack",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{borderColor:15961002,clothColor:15961002}"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.1
+        }
+      ]
+    }
+  ]
+}
