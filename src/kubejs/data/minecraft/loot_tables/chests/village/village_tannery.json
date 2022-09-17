@@ -259,7 +259,7 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "cftlc:moss_horse_armor",
+          "name": "creaturesfromthelushcave:moss_horse_armor",
           "functions": [
             {
               "function": "minecraft:enchant_randomly",

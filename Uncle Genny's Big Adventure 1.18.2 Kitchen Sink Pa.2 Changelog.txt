@@ -3,12 +3,49 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+
+September 16, 2022 Update 2
+------------------------------------------------------------------------------
+Pack Version : 0.1.3.2
+Minecraft Version : 1.18.2
+Forge Version : 40.1.80
+------------------------------------------------------------------------------
+
+
+-- Mod Freezes --
+-----------------
+Create Stuff & Additions 1.1.8 (v2.0.0 in beta. Wait to test)
+JEI 9.7.1.255 (Stable)
+GeckoLib 3.0.37 (Launcher tries to download Quilt version)
+
+
+-- Added Mods --
+----------------
+Creatures From the Lush Caves 
+
+
+-- Script Changes --
+--------------------
+Fix loot tables for village fisher
+Fix loot tables for village tannery
+
+
+
+
+
 September 16, 2022
 ------------------------------------------------------------------------------
-Pack Version : 0.1.3
+Pack Version : 0.1.3.1
 Minecraft Version : 1.18.2
 Forge Version : 40.1.76
 ------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Create Stuff & Additions 1.1.8 (v2.0.0 in beta. Wait to test)
+JEI 9.7.1.255 (Stable)
+GeckoLib 3.0.37 (Launcher tries to download Quilt version)
+
 
 -- Removed Mods --
 ------------------
