@@ -8,6 +8,8 @@ onEvent('jei.hide.items', event => {
 			'quark:apple_crate',
 			'quark:potato_crate',
 			'quark:carrot_crate',
-			'quark:beetroot_crate'
+			'quark:beetroot_crate',
+			'shrink:mob_bottle',
+			'cgm:workbench'
 		])
 })
