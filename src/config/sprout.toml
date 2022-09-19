@@ -1,0 +1,11 @@
+
+["World Generation"]
+
+	#World Generation Configurations.
+	["World Generation".Sprouts]
+		#Weather you want sprouts or not.
+		enabled = true
+		#The frequency that sprouts will spawn. Note: 32 is vanilla grass.
+		#Range: > -2147483648
+		frequency = 32
+
