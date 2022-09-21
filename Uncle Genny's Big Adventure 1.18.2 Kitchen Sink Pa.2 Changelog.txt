@@ -3,7 +3,7 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
-September 19, 2022
+September 21, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.0.1
 Minecraft Version : 1.18.2
@@ -13,7 +13,7 @@ Changelog Monkey: Uncle Genny
 
 -- Config Changes --
 --------------------
-Added Loot Tables for Jungle/Desert/Ruin/etc Villages
+Added Loot Tables for Jungle/Desert/Ruin/Plains/Forest/etc Villages
 
 
 September 18, 2022 Update 2
