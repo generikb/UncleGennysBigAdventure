@@ -1,0 +1,796 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:cod",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:salmon",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:pufferfish",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:tropical_fish",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "seadwellers:treasure_box_farmer"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ecologics:seashell",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "crittersandcompanions:clam",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:fish_bones",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ob_aquamirae:spinefish_bones",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:scute",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:crocodile_scute",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:salmon_roll",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:pufferfish_roll",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:tropical_roll",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:baked_cod_stew",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:fish_stew",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:grilled_salmon",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:squid",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:glow_squid",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ob_aquamirae:sea_casserole",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ecologics:seashell_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ecologics:seashell_tiles",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4,
+                "max": 16
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:tube_coral_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:brain_coral_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:bubble_coral_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:fire_coral_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:horn_coral_block",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 8
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "architects_palette:salmon_log",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 16
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "architects_palette:cod_log",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 16
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "architects_palette:algal_bricks",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 16
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "architects_palette:overgrown_algal_bricks",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 16
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ob_aquamirae:painting_anglerfish"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ob_aquamirae:painting_aurora"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ob_aquamirae:painting_tortured_soul"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ob_aquamirae:painting_oxygelium"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "dustrial_decor:anchor"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "dustrial_decor:hook"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "skinnedlanterns:pufferfish_lantern_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "skinnedlanterns:guardian_lantern_block"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "seadwellers:treasure_box_builder"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.75
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forbidden_arcanus:edelwood_squid_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forbidden_arcanus:edelwood_glow_squid_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:platypus_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "naturalist:snail_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "cutehermitcrabs:bucket_of_hermit_crab"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:comb_jelly_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:terrapin_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:mimic_octopus_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "forbidden_arcanus:edelwood_axolotl_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:large_catfish_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "crittersandcompanions:sea_bunny_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "crittersandcompanions:koi_fish_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:blobfish_bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:lobster_bucket"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ob_aquamirae:sea_stew",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:sponge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "cutehermitcrabs:hermit_crab_shell",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:heart_of_the_sea"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:nautilus_shell"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "crittersandcompanions:pearl",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ecologics:flowering_azalea_boat"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:blighted_balsa_boat"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "ecologics:coconut_boat"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "quark:azalea_boat"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "sophisticatedstorage:gold_barrel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 20,
+          "name": "ob_aquamirae:treasure_pouch",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:fishing_rod",
+          "functions": [
+            {
+              "function": "minecraft:enchant_with_levels",
+              "levels": 30,
+              "treasure": true,
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:trident",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "ob_aquamirae:poseidons_breakfast",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 25,
+          "name": "ob_aquamirae:dead_sea_scroll"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alcocraft:spruce_mug_drowned_ale"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "sophisticatedstorage:diamond_barrel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "seadwellers:treasure_box_diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.1
+        }
+      ]
+    }
+  ]
+}
