@@ -1,0 +1,345 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = mid-centered
+  x = 103
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-centered
+  x = -10
+  action = movebutton
+  y = 69
+}
+
+customization {
+  identifier = %id=376322%
+  orientation = mid-centered
+  x = 102
+  action = movebutton
+  y = -27
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 21
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-centered
+  x = -49
+  action = movebutton
+  y = 45
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-centered
+  x = 103
+  action = movebutton
+  y = -3
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376346%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 133
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = f7040fae-347e-4f64-8cc7-6f978a27de5f1663791511470
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 42a27b06-555b-42da-9fae-8682637929681663791511479
+  y = 258
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 305
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = d7a578b4-a868-4516-989e-59fa5d72749e1663791511479
+  y = 280
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 370
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = acdb3e48-799e-4a9b-905f-a80ace75ed7a1663791511479
+  y = 175
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 130
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = d793fc40-350e-4fd2-8cab-73bc0750e5661663791511479
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = d45784d9-f54f-4fbc-8da4-04b84e4665491663791511480
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Genny's Loot Table Simulator
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 368
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 4bc8a52c-0978-479a-b477-18b82cbfa96f1663792321316
+  y = 231
+  alignment = left
+  base_color = #EBB701
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = UGBA - Not as good as UG100
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 68
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = c6fd2d01-be90-4f49-92f8-132fc2fbce3c1663792327180
+  y = 263
+  alignment = left
+  base_color = #F23B2E
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = การผจญภัยครั้งยิ่งใหญ่ของลุงเจนนี่
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 353
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 5c8280fd-b236-49a9-b8ec-ca8f3e453e2c1663792330253
+  y = 95
+  alignment = left
+  base_color = #F2A32E
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Generikb drinks milk
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 421
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2e45379f-b582-48db-a5c1-40f4c5c683641663792330974
+  y = 286
+  alignment = left
+  base_color = #E82CB1
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Большое приключение дяди Дженни
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 27
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6b5bdb86-2349-4234-a79f-d4bc04e367571663792331176
+  y = 217
+  alignment = left
+  base_color = #E82CB1
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = La Gran Aventura de Tio Genny
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 296
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 42144caa-de9f-47fa-945a-57f61255c1d01663792331344
+  y = 27
+  alignment = left
+  base_color = #E82CB1
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Adventure... Big... Genny.... Weeeee!
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 30
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 18916894-bc69-4ea2-9c6d-06c27d1057911663792334600
+  y = 103
+  alignment = left
+  base_color = #F23B2E
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = The Big Adventure of Uncle Genny
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 43
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 42c4841d-0399-4c34-8966-0c8e81da16e51663792335411
+  y = 27
+  alignment = left
+  base_color = #DB6C35
+  height = 38
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.1
+  source = Uncle Genny's Big Adventure
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 2
+  x = 173
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 0307814c-4c44-44b6-8252-4027ac63c23e1663793165168
+  y = 63
+  alignment = centered
+  base_color = #35D020
+  height = 40
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Beta 0.1.3.7
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 154
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3579d4cf-8662-40d4-b50c-960700ac2cd41663793617503
+  y = 31
+  alignment = left
+  height = 40
+}
+

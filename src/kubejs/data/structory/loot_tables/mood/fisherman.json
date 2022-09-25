@@ -159,7 +159,7 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "culturaldelights:salmon_roll",
+          "name": "farmersdelight:salmon_roll",
           "functions": [
             {
               "function": "minecraft:set_count",
