@@ -7,6 +7,7 @@
 
 # No CCI configs on github
 src/config/contentcreatorintegration/
+src/config/defaultoptions/servers.dat
 
 # don't push this file
 .gitignore
