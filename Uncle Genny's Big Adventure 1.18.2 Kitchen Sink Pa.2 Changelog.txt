@@ -3,6 +3,29 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+October 5, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.3.8
+Minecraft Version : 1.18.2
+Forge Version : 40.1.80
+Changelog Monkey: Uncle Genny
+------------------------------------------------------------------------------
+
+-- Added Mods --
+----------------
+Log Begone
+
+-- Script Changes --
+--------------------
+added KubeJS script to remove orcz from the End dimension
+added loot tables to Terralith villages (including fix for fisherman loot)
+added some new treasures to fishing loot table
+improved loot for Graveyard "misc_loot"
+improved loot for Artifacts "campsite" loot
+
+
+
+
 September 21-23, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.3.7

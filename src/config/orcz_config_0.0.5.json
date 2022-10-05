@@ -4,10 +4,10 @@
   "Fake leaves goblins are experimental!": "Off by default",
   "fake_leaves_goblin": false,
   "Natural Spawning of all Orcz during night time:": "On By default",
-  "spawn_orcz_nighttime": true,
+  "spawn_orcz_nighttime": false,
   "Natural Spawning of specific Orcz (This also affects orcz spawned in camps!):": "On By default",
-  "spawn_orcz": true,
-  "spawn_goblinz": true,
-  "spawn_orc_boss": true,
-  "spawn_iron_orcz": true
+  "spawn_orcz": false,
+  "spawn_goblinz": false,
+  "spawn_orc_boss": false,
+  "spawn_iron_orcz": false
 }
