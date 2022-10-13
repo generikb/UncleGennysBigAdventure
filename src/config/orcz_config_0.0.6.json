@@ -1,0 +1,18 @@
+{
+  "spawn_camp_structure": true,
+  "spawn_camp_structure_the_other_dimension": true,
+  "Fake leaves goblins are experimental!": "Off by default",
+  "fake_leaves_goblin": false,
+  "Natural Spawning of all Orcz during night time:": "On By default",
+  "spawn_orcz_nighttime": true,
+  "Natural Spawning of specific Orcz (This also affects orcz spawned in camps!):": "On By default",
+  "spawn_orcz": true,
+  "spawn_goblinz": true,
+  "spawn_orc_boss": true,
+  "spawn_iron_orcz": true,
+  "Aids(troops) from werids enemies (This will happen when werids teleported away)": "On By default",
+  "werids_aids": true,
+  "This happens when Orcz\u0027s mobs dies": "On By default",
+  "spawn_spore": true,
+  "This should be off(a config for ORCz developer test)": "Off By default"
+}

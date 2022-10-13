@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "idas:cottage",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169480673,
+    "spacing": 15,
+    "separation": 5,
+    "type": "minecraft:random_spread"
+  }
+}

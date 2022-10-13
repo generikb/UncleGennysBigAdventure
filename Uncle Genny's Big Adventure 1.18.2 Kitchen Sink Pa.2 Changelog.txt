@@ -3,6 +3,56 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+October 13, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.3.9
+Minecraft Version : 1.18.2
+Forge Version : 40.1.80
+Changelog Monkey: Uncle Genny
+------------------------------------------------------------------------------
+
+
+-- Updated Mods --
+------------------
+Chipped 2.0.0
+Create 1.18.2-0.0.5.e
+Cofh Core 1.18.2-9.0.0.24
+Configures 2.0.0
+Convenient Curios Container 1.4
+CuriousLanters 1.18.2-1.2.0
+CuriousLights 1.3.0+1.18.2
+Ensorcellation 1.18.2-3.0.0.10
+KubeJS Forge 1802.5.5-build.550
+Neko's Enchanted Books 1.8
+Nether's Exoticism 1.18.2-1.2.0
+Orcz 0.83_1.18.2
+Rhino Forge 1802.2.1-build.240
+Rubidium mc1.18.2-0.5.4
+Sophisticated Backpacks 1.18.2-3.18.29.718
+Sophisticated Core 1.18.2-0.5.13.132
+Sophisticated Storage 1.18.2-0.5.17.152
+Supplementaries 1.18.2-1.5.9
+
+-- Removed Mods --
+------------------
+Mannequins
+Pollen
+YungsBetterWitchHuts
+Book Fishing
+
+
+-- Config Changes --
+--------------------
+added "mixin.features.chunk_rendering=false" to rubidium-mixins.properties as a temp fix for Chipped connected textures issue
+
+-- Script Changes --
+--------------------
+added new customized IDAS datapack to make structure spawning closer together
+
+
+
+
+
 October 5, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.3.8
