@@ -1036,11 +1036,6 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "mannequins:mannequin"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
           "name": "create:andesite_alloy",
           "functions": [
             {

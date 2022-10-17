@@ -1,0 +1,12 @@
+{
+  "input": {
+    "item": "alexsmobs:cachalot_whale_tooth"
+  },
+  "result": {
+    "id": "alexsmobs:cachalot_whale",
+    "nbt": {
+    "CustomName": "\"George\"",
+    "CustomNameVisible": 1
+  }
+  }
+}

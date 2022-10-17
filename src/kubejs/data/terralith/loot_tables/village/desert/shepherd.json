@@ -1,0 +1,667 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "minecraft:white_wool",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 4,
+                    "max": 8
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:gray_wool",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 6
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:light_gray_wool",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 6
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:brown_wool",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 6
+                  }
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:black_wool",
+              "functions": [
+                {
+                  "function": "minecraft:set_count",
+                  "count": {
+                    "min": 2,
+                    "max": 6
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 20,
+          "name": "forge:dyes",
+          "expand": false,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 4
+              },
+              "add": true
+            }
+          ]
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 5,
+          "name": "minecraft:banners",
+          "expand": true
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 5,
+          "name": "supplementaries:flags",
+          "expand": true
+        }
+      ]
+    },
+    {
+      "rolls": {
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "culturaldelights:mutton_sandwich",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:roasted_mutton_chops",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:pasta_with_mutton_chop",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:mutton_chops",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:mutton",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "architects_palette:spool",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "farmersdelight:safety_net",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "nomadictents:shamiyana_section",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "nomadictents:yurt_section",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "nomadictents:tent_canvas",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "nomadictents:bedouin_section",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 4
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:bison_carpet",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.75
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "naturalist:bear_fur",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "undead_expansion:cursed_cloth",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "minecraft:lead"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "cnb:entity_net"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "sophisticatedbackpacks:upgrade_base",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:sleeping_bag_cyan"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:sleeping_bag_lime"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:sleeping_bag_yellow"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:sleeping_bag_magenta"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:hammock_cyan"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:hammock_lime"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:hammock_yellow"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "comforts:hammock_magenta"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "supplementaries:sack"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "alexsmobs:vine_lasso"
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:skull_banner_pattern"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:flower_banner_pattern"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "minecraft:creeper_banner_pattern"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "alexsmobs:banner_pattern_bear"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "alexsmobs:banner_pattern_australia_0"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "alexsmobs:banner_pattern_australia_1"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "alexsmobs:banner_pattern_new_mexico"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "alexsmobs:banner_pattern_brazil"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 5,
+              "name": "kobolds:banner_pattern_kobold"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:tag",
+          "weight": 10,
+          "name": "create:seats",
+          "expand": true
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create:filter"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create:white_sail",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.25
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "shrink:mob_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{entity:\"minecraft:goat\",IsScreamingGoat:1b}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "shrink:mob_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{entity:\"minecraft:sheep\"}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "cnb:lizard_item_desert_2"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "cnb:lizard_item_desert"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "cnb:lizard_item_jungle"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "cnb:lizard_item_jungle_2"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "cnb:lizard_item_mushroom"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:group",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:white_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:orange_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:magenta_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:light_blue_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:yellow_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:lime_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:pink_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:light_gray_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:gray_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:cyan_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:purple_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:blue_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:brown_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:green_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "weight": 10,
+              "name": "biomemakeover:red_tapestry"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "biomemakeover:black_tapestry"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "create:attribute_filter",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.1
+        }
+      ]
+    }
+  ]
+}

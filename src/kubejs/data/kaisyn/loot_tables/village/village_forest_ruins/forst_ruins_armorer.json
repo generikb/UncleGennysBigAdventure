@@ -250,11 +250,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 5,
-          "name": "mannequins:mannequin"
         }
       ],
       "conditions": [
@@ -285,11 +280,6 @@
               }
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "name": "mannequins:statue"
         },
         {
           "type": "minecraft:item",

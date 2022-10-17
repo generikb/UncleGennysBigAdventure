@@ -3,11 +3,13 @@
   "values": [
     {"id":"naturalist:firefly","required":false},
     {"id":"cnb:sporeling","required":false},
+    {"id":"cnb:minipad","required":false},
     {"id":"crittersandcompanions:dragonfly","required":false},
     {"id":"crittersandcompanions:leaf_insect","required":false},
     {"id":"alexsmobs:cockroach","required":false},
     {"id":"alexsmobs:leafcutter_ant","required":false},
     {"id":"biomemakeover:rootling","required":false},
+    {"id":"biomemakeover:toad","required":false},
     {"id":"naturalist:butterfly","required":false},
     {"id":"mushlings:mushling","required":false},
     {"id":"quark:crab","required":false},

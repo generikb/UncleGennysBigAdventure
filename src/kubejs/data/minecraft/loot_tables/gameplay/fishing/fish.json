@@ -23,6 +23,21 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 2,
+          "name": "alexsmobs:raw_catfish"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "alexsmobs:cachalot_whale_tooth"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "name": "culturaldelights:squid"
+        },       
+        {
+          "type": "minecraft:item",
           "weight": 13,
           "name": "minecraft:pufferfish"
         }

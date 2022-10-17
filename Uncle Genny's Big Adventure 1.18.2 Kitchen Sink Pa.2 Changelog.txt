@@ -3,6 +3,31 @@ Uncle Genny's Big Adventure 1.18.2 Kitchen Sink Pack
 Modlist and Changelog
 ----------------------------------------------------
 
+
+October 17, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.1.3.10
+Minecraft Version : 1.18.2
+Forge Version : 40.1.80
+Changelog Monkey: Uncle Genny
+------------------------------------------------------------------------------
+
+-- Added Mods --
+----------------
+Kiwi (but just using for loot tables, can remove before release)
+
+-- Removed Mods --
+------------------
+Aquamirae
+
+-- Script Changes --
+--------------------
+added QoL recipes (Joprebond)
+even more loot tables (dungeons, pillagers, etc)
+
+
+
+
 October 13, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.3.9

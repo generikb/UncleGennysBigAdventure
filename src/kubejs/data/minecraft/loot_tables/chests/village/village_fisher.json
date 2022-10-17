@@ -109,20 +109,6 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "ob_aquamirae:spinefish_bones",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 5
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
           "name": "minecraft:scute",
           "functions": [
             {
@@ -265,17 +251,6 @@
                 "min": 1,
                 "max": 3
               }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "name": "ob_aquamirae:sea_casserole",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 1
             }
           ]
         }
@@ -452,31 +427,6 @@
           ]
         },
         {
-          "type": "minecraft:group",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "weight": 10,
-              "name": "ob_aquamirae:painting_anglerfish"
-            },
-            {
-              "type": "minecraft:item",
-              "weight": 10,
-              "name": "ob_aquamirae:painting_aurora"
-            },
-            {
-              "type": "minecraft:item",
-              "weight": 10,
-              "name": "ob_aquamirae:painting_tortured_soul"
-            },
-            {
-              "type": "minecraft:item",
-              "weight": 10,
-              "name": "ob_aquamirae:painting_oxygelium"
-            }
-          ]
-        },
-        {
           "type": "minecraft:item",
           "weight": 10,
           "name": "dustrial_decor:anchor"
@@ -596,20 +546,6 @@
         {
           "type": "minecraft:item",
           "weight": 10,
-          "name": "ob_aquamirae:sea_stew",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 2
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
           "name": "minecraft:sponge"
         },
         {
@@ -681,20 +617,6 @@
           "type": "minecraft:item",
           "weight": 10,
           "name": "sophisticatedstorage:gold_barrel"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 20,
-          "name": "ob_aquamirae:treasure_pouch",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
         }
       ],
       "conditions": [
@@ -740,25 +662,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 10,
-          "name": "ob_aquamirae:poseidons_breakfast",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1,
-                "max": 3
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 25,
-          "name": "ob_aquamirae:dead_sea_scroll"
         },
         {
           "type": "minecraft:item",
