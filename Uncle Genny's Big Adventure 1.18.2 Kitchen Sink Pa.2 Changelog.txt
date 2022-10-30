@@ -4,6 +4,64 @@ Modlist and Changelog
 ----------------------------------------------------
 
 
+
+October 26-29, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.2.0
+Minecraft Version : 1.18.2
+Forge Version : 40.1.84
+Changelog Monkey: Joelson Beavis Bubman
+------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Create Stuff & Additions 1.1.8 (v2.0.0 in beta. Wait to test)
+Display Case 1.0.3 (Launcher tries to download Quilt version as latest)
+JEI 9.7.1.255 (Stable)
+
+
+-- Updated Mods --
+------------------
+
+FORGE 40.1.80 TO 40.1.84 <----- LOOK GENNY! GENNY, LOOK! WE UPDATED FORGE THIS TIME
+
+Architectury 4.9.84 to 4.10.86
+Ars Creo 2.1.3 to 2.1.4 
+Ars Nouveau 2.7.8 to 2.7.9 to 2.8.0
+BetterF3 1.2.5 to 3.0.0
+Brutal Bosses 5.4 to 5.6
+Collective 4.68 to 5.11
+Comforts 5.0.0.4 to 5.0.0.5
+Convenient Curios Container 1.4 to 1.5
+Cosmetic Armor Reworked v2 to v2a
+Display Case 1.0.2 to 1.0.3
+Enigmatica Graves 1.7.4 to 1.7.6
+Every Compat (Wood Good) -1.5.12 to 1.5.13
+Extreme Sound Muffler 3.29 to 3.30
+Fancy Menu 2.12.2 to 2.12.6
+Fantasy Furniture 3.10.0 to 3.12.0
+Fast Workbench 6.1.0 to 6.1.1
+GeckoLib 3.0.39 to 3.0.49
+Goblin Traders 1.7.2 to 1.8.0
+Iceberg 1.0.44 to 1.0.49
+IDAS 1.4.5 to 1.4.7
+Inventory Sorter 19.0.0 to 19.0.4
+Immersive Weathering 1.2.11 to 3.0.2
+Kobolds 2.0.8 to 2.1.2
+Konkrete 1.5.1 to 1.5.3
+Legendary Tooltips 1.3.0 to 1.3.1
+Placebo 6.6.4 to 6.6.6
+Pretty Pipes 1.12.6 to 1.12.8
+Sophisticated Core 0.5.13.132 to 0.5.15.141
+Supplementaries 1.5.9 to 1.5.12
+Swing Thru Grass 1.9.0 to 1.9.1
+Towns and Towers 1.6.0 to 1.9-B
+Unusual End 1.1.8 to 1.2.2 to 1.2.3
+Yungs API 2.0.8 to 2.2.6
+
+
+
+
 October 17, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.1.3.10
@@ -40,30 +98,30 @@ Changelog Monkey: Uncle Genny
 -- Updated Mods --
 ------------------
 Chipped 2.0.0
-Create 1.18.2-0.0.5.e
-Cofh Core 1.18.2-9.0.0.24
-Configures 2.0.0
-Convenient Curios Container 1.4
-CuriousLanters 1.18.2-1.2.0
-CuriousLights 1.3.0+1.18.2
-Ensorcellation 1.18.2-3.0.0.10
-KubeJS Forge 1802.5.5-build.550
-Neko's Enchanted Books 1.8
-Nether's Exoticism 1.18.2-1.2.0
-Orcz 0.83_1.18.2
-Rhino Forge 1802.2.1-build.240
-Rubidium mc1.18.2-0.5.4
-Sophisticated Backpacks 1.18.2-3.18.29.718
-Sophisticated Core 1.18.2-0.5.13.132
-Sophisticated Storage 1.18.2-0.5.17.152
-Supplementaries 1.18.2-1.5.9
+Create 0.5.0.d to 0.5.0.e
+Cofh Core 1.6.4.21 to 9.0.0.24
+Configured 1.5.4 to 2.0.0
+Convenient Curios Container1.2 to 1.4
+CuriousLanters 1.1.5 to 1.2.0
+CuriousLights 1.2.0 to 1.3.0
+Ensorcellation 1.6.1.8 to 3.0.0.10
+KubeJS Forge 1802.5.5-build.546 to build.550
+Neko's Enchanted Books 1.7.0 to 1.8
+Nether's Exoticism 1.1.10 to 1.2.0
+Orcz 0.77 to 0.83_1.18.2
+Rhino Forge 1802.2.20-build.232 to 1802.2.1-build.240
+Rubidium 0.5.3a to 0.5.4
+Sophisticated Backpacks 3.18.24.704 to 3.18.29.718
+Sophisticated Core 0.5.9,115 to 0.5.13.132
+Sophisticated Storage 0.5.11.137 to 0.5.17.152
+Supplementaries 1.5.6 to 1.5.9
 
 -- Removed Mods --
 ------------------
+Book Fishing
 Mannequins
 Pollen
 YungsBetterWitchHuts
-Book Fishing
 
 
 -- Config Changes --
@@ -840,6 +898,11 @@ Minecraft Version : 1.18.2
 Forge Version : 40.1.80
 Changelog Monkey: (Jole or Genny?)
 ------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Create Stuff & Additions 1.1.8 
+JEI 9.7.1.255 (Stable)
 
 
 -- Updated Mods --
