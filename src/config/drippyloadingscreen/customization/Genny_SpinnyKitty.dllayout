@@ -1,0 +1,83 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #DD5432
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  orientation = mid-centered
+  visible = false
+  x = 2
+  action = editprogressbar
+  y = 125
+}
+
+customization {
+  path = config/fancymenu/animations/dark-brown-cat-spinning-final-opt.gif
+  orientation = mid-centered
+  x = 4
+  width = 144
+  action = addtexture
+  actionid = 79aab046-0665-4a26-a993-0d54715232281667751269543
+  y = 105
+  height = 100
+}
+
+customization {
+  orientation = mid-centered
+  x = 4
+  width = 144
+  actionid = c2913025-4093-4b84-bbbe-b876121315aa1667751469159
+  y = 49
+  action = addcustomprogressbar
+  height = 12
+  direction = right
+  barcolor = #a4de4b
+  backgroundcolor = #FD8671
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 359
+  textcolor = #3c1d1c
+  action = addtext
+  actionid = b18bee2c-d222-4b9c-af9a-339602034ee61667785711221
+  y = 381
+  scale = 1.0
+  alignment = left
+  value = twitch.tv/generikb
+}
+
+customization {
+  path = config/fancymenu/customization/logo.png
+  orientation = mid-centered
+  x = -7
+  width = 324
+  action = addtexture
+  actionid = c29e88a2-b8de-4663-b180-dc57dc335dfe1667785771080
+  y = -72
+  height = 200
+}
+
+customization {
+  path = config/fancymenu/customization/loadscreen.png
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  action = addtexture
+  actionid = fd41ff3a-ad9a-4c5f-8528-91a604b55ede1667789030953
+  y = 0
+  height = %guiheight%
+}
+

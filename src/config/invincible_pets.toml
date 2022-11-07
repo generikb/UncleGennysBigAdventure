@@ -1,5 +1,0 @@
-#Maximum number of pets a player can have
-max_pets = -1
-#Whether the max number of pets a player can have is total or only following pets
-pets_following = false
-
