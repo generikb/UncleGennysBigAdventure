@@ -4,11 +4,101 @@ Modlist and Changelog
 ----------------------------------------------------
 
 
+Month <day>, 2022
+------------------------------------------------------------------------------
+Pack Version : 1.0.0
+Minecraft Version : 1.18.2
+Forge Version : 40.1.85
+Changelog Monkey: As if Genny hasn't already abandoned this pack. Sheesh
+------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Bookshelf 13.2.50 (Stable)
+COFH_Core 9.0.024 (Untested with backend changes in 9.1.0.27)
+Create Stuff & Additions 1.1.8 (this version maintains functionality Genny wants to keep )
+Display Case 1.0.3 (Launcher tries to download Quilt version as latest)
+Enchantment Descriptions 10.0.9 (Stable)
+Ensorcellation 3.0.0.10 (3.1.0.11 is for use with COFH_core update)
+GeckoLib 3.0.55 (Untested with changes in 3.0.56)
+JEI 9.7.1.255 (Stable)
+Journeymap 5.9.0-beta2 (Untested with beta3)
+Just Enough Professions 1.2.2 (Untested with 1.3.0)
+Nether's Exoticism 1.2.1 (Untested with 1.2.2)
+
+
+-- Updated Mods --
+------------------
+Terralith 2.2.2 to 2.2.3 (disables Traveler's Maps)
+
+
+-- Config Changes --
+--------------------
+disabled various conflicting keybinds
+saved defaultOptions
+Set version number in Fancy Menu to 1.0.0
+
+-- Asset Changes --
+-------------------
+removed IDAS maps from Cartographer trades
+
+
+-- Removed Mods --
+------------------
+CCI (removed for public release)
+Generic Streamer Utilities (Removed for Public Release)
+Swap Things (Removed for Public Release)
+
+
+November 16, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.2.2
+Minecraft Version : 1.18.2
+Forge Version : 40.1.85
+Changelog Monkey: Jole
+------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Bookshelf 13.2.50 (Stable)
+Create Stuff & Additions 1.1.8 (this version maintains functionality Genny wants to keep )
+Display Case 1.0.3 (Launcher tries to download Quilt version as latest)
+JEI 9.7.1.255 (Stable)
+
+
+-- Updated Mods --
+------------------
+FORGE 40.1.84 TO 40.1.85 <----- LOOK GENNY! GENNY, LOOK! WE UPDATED FORGE AGAIN! 
+Collective 5.13 to 5.16
+Convenient Curios Container 1.5 to 1.7
+CraftPresence 1.9.5 to 1.9.6
+Dramatic Doors 2.1.3 to 2.1.4
+Fancy Menu 2.12.6 to 2.12.9
+Ferritecore 4.2.1 to 4.2.2
+Galosphere 1.0.4 to 1.2.0
+geckolib 3.0.54 to 3.0.55
+Immersive Weathering 3.0.2 to 3.0.3
+KubeJS 1802.5.5-build.554 to build.556
+lootr 0.2.21.58 to 0.2.22.59
+Rhino 1802.2.1-build.252 to build.255
+Supplementaries 1.5.12 to 1.5.13
+Towns and Towers 1.9.1-b to 1.10-b
+Unusual End 1.2.3 to 1.2.6
+
+
+
+-- Removed Mods --
+------------------
+Truly Treasures
+
+
+
+
 November 4-6, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.2.1
 Minecraft Version : 1.18.2
-Forge Version : 40.1.80
+Forge Version : 40.1.84
 Changelog Monkey: Jole the Scapegoatmonkey
 ------------------------------------------------------------------------------
 Reminder: Remove VooDoo Dolls from Client for Betas/Public Releases
