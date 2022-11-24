@@ -4,7 +4,44 @@ Modlist and Changelog
 ----------------------------------------------------
 
 
-Month <day>, 2022
+November 24, 2022
+------------------------------------------------------------------------------
+Pack Version : 1.0.1
+Minecraft Version : 1.18.2
+Forge Version : 40.1.85
+Changelog Monkey: JoelZeBiatch
+------------------------------------------------------------------------------
+
+-- Mod Freezes --
+-----------------
+Bookshelf 13.2.50 (Stable)
+COFH_Core 9.0.024 (Untested with backend changes in 9.1.0.27)
+Create Stuff & Additions 1.1.8 (this version maintains functionality Genny wants to keep )
+Display Case 1.0.3 (Launcher tries to download Quilt version as latest)
+Enchantment Descriptions 10.0.9 (Stable)
+Ensorcellation 3.0.0.10 (3.1.0.11 is for use with COFH_core update)
+GeckoLib 3.0.55 (Untested with changes in 3.0.56)
+JEI 9.7.1.255 (Stable)
+Journeymap 5.9.0-beta2 (Untested with beta3)
+Just Enough Professions 1.2.2 (Untested with 1.3.0)
+Nether's Exoticism 1.2.1 (Untested with 1.2.2)
+Winter Overhaul 1.0.2 (1.0.3 is for use with Geckolib update)
+
+
+-- Config Changes --
+--------------------
+addedJourneymap configs that never made it to github to the export
+saved defaultOptions
+Set version number in Fancy Menu to 1.0.1
+
+-- Asset Changes --
+-------------------
+Downloaded all modpacks again to force manifest
+
+
+
+
+November 23, 2022
 ------------------------------------------------------------------------------
 Pack Version : 1.0.0
 Minecraft Version : 1.18.2

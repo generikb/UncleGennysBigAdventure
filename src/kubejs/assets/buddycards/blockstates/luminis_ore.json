@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "buddycards:block/luminis_ore_0"
+      },
+      {
+        "model": "buddycards:block/luminis_ore_1"
+      },
+      {
+        "model": "buddycards:block/luminis_ore_2"
+      },
+      {
+        "model": "buddycards:block/luminis_ore_3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "ob_core:block/deepslate_platinum_ore_0"
+      },
+      {
+        "model": "ob_core:block/deepslate_platinum_ore_1"
+      },
+      {
+        "model": "ob_core:block/deepslate_platinum_ore_2"
+      },
+      {
+        "model": "ob_core:block/deepslate_platinum_ore_3"
+      }
+    ]
+  }
+}

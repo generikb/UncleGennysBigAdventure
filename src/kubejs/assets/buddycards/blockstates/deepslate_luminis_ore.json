@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "buddycards:block/deepslate_luminis_ore_0"
+      },
+      {
+        "model": "buddycards:block/deepslate_luminis_ore_1"
+      },
+      {
+        "model": "buddycards:block/deepslate_luminis_ore_2"
+      },
+      {
+        "model": "buddycards:block/deepslate_luminis_ore_3"
+      }
+    ]
+  }
+}
