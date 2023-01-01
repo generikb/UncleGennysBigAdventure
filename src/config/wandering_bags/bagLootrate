@@ -1,0 +1,8 @@
+{
+  "bagLootrate": {
+    "wanderingBag": 1,
+    "witchBag": 0.5,
+    "pillagerBag": 0.08,
+    "piglinBag": 1
+  }
+}

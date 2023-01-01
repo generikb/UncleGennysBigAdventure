@@ -401,7 +401,7 @@ customization {
   actionid = 5d031f28-e2b2-4509-b28b-2369783d31ff1667706464205
   action = addsplash
   y = 157
-  text = Release 1.0.1
+  text = Release 1.1.0
 }
 
 customization {

@@ -1,0 +1,28 @@
+{
+  "enableRelics": {
+    "wanderingBag": {
+      "hammer_from_farlands": true,
+      "bucket_from_unknown": true,
+      "spice_from_elsewhere": true,
+      "flute_of_friendship": true
+    },
+    "pillagerBag": {
+      "dagger_of_traitor": true,
+      "stone_of_renegade": true,
+      "herb_of_rescue": true,
+      "horn_of_raiding": true
+    },
+    "witchBag": {
+      "forbidden_spell": true,
+      "flask_of_adaptation": true,
+      "swamp_essence": true,
+      "chime_of_bewail": true
+    },
+    "piglinBag": {
+      "whip_of_dominance": true,
+      "chalice_of_swine": true,
+      "withered_bonemeal": true,
+      "drums_of_underworld": true
+    }
+  }
+}

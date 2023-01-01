@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:false
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","dynamic_asset_generator:client","quark:emote_resources","resources/simplehats_hatdl.zip","create:legacy_copper","file/STONEBORN - 1.18 - V3.2.zip","file/STONEBORN - 1.18 - EXTENDED V1.3.zip","builtin/mod_support/ctm","file/Create Style Modded Compats v14.zip","file/Stay_True_1.18.zip","file/Stay True Compats v4 [1.19].zip","file/Create+Guns+1.18+v4.zip","file/BlinkingEnderEyes_1.18_v2.zip","file/BetterEnderDragon-1.19.zip","file/Better_Chickens_V1.3.zip","file/Fantasy_Ores_v6_shiny_ores.zip","file/Fantasy_Ores_Modded[v1.8].zip","file/LootrChestRetexture_v1.1_1.18.zip"]
-incompatibleResourcePacks:["quark:emote_resources","file/Better_Chickens_V1.3.zip","file/Fantasy_Ores_v6_shiny_ores.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Immersive Weathering Generated Pack","Supplementaries Generated Pack","dynamic_asset_generator:client","quark:emote_resources","resources/simplehats_hatdl.zip","create:legacy_copper","file/STONEBORN - 1.18 - V3.2.zip","file/STONEBORN - 1.18 - EXTENDED V1.3.zip","builtin/mod_support/ctm","file/Create Style Modded Compats v15.zip","file/Stay_True_1.18.zip","file/Stay True Compats v6 [1.19].zip","file/Create+Guns+1.18+v4.zip","file/BlinkingEnderEyes_1.18_v2.zip","file/BetterEnderDragon-1.19.zip","file/Better_Chickens_V1.3.zip","file/Fantasy_Ores_v6.1_shiny_ores.zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip","file/LootrChestRetexture_v1.1_1.18.zip"]
+incompatibleResourcePacks:["quark:emote_resources","file/Create Style Modded Compats v15.zip","file/Stay True Compats v6 [1.19].zip","file/Better_Chickens_V1.3.zip","file/Fantasy_Ores_v6.1_shiny_ores.zip","file/Fantasy_Ores_Modded_v2_shiny_ores.zip"]
 lastServer:
 lang:en_us
 soundDevice:
